@@ -101,3 +101,11 @@ print(modResult)
 var even = 12 % 6
 print(even)
 
+
+
+//+++++++++++++++++++++++++++
+//           constants
+//++++++++++++++++++++++++++++
+
+let pi = 3.14
+
